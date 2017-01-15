@@ -15,3 +15,9 @@ Project for Udacity Nanodegree. Learn how to create VR Scenes and Objects using 
 * Tried out Blender, created GameObject WillApartmentFromBlender from Blender render
 * Add VR functionality using Google VR Unity SDK
 * Shader optimizations for mobile
+
+##Screenshots
+
+[!Screenshot1](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/phonescreenshot1.jpg)
+
+[!Screenshot2](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/apartment_room.gif)
