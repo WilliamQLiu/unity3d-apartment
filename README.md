@@ -2,7 +2,7 @@
 An apartment scene with Unity 3D and Blender
 
 ##About
-Project for Udacity Nanodegree. Learn how to create VR Scenes and Objects using the **Google VR Unity SDK 1.0.3** on Unity v5.5.0f3. Changes include:
+Project for Udacity Nanodegree. Learn how to create VR Scenes and Objects using the **Google VR Unity SDK 1.0.3** on **Unity v5.5.0f3**. Changes include:
 
 * Create Models
 * Add materials and textures to objects
@@ -18,6 +18,6 @@ Project for Udacity Nanodegree. Learn how to create VR Scenes and Objects using 
 
 ##Screenshots
 
-[Screenshot1](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/phonescreenshot1.jpg "view from phone")
+![Screenshot1](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/phonescreenshot1.jpg "view from phone")
 
-[Screenshot2](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/apartment_room.gif "view from unity game engine")
+![Screenshot2](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/apartment_room.gif "view from unity game engine")
