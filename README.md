@@ -18,6 +18,6 @@ Project for Udacity Nanodegree. Learn how to create VR Scenes and Objects using 
 
 ##Screenshots
 
-[!Screenshot1](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/phonescreenshot1.jpg)
+[Screenshot1](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/phonescreenshot1.jpg "view from phone")
 
-[!Screenshot2](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/apartment_room.gif)
+[Screenshot2](https://github.com/WilliamQLiu/unity3d-apartment/blob/master/Screenshots/apartment_room.gif "view from unity game engine")
